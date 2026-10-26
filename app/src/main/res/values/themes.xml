@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema oscuro tipo "juego": barras del sistema transparentes sobre la cámara. -->
+    <style name="Base.Theme.Eliansitowebonsito" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowBackground">@color/black</item>
+    </style>
+
+    <style name="Theme.Eliansitowebonsito" parent="Base.Theme.Eliansitowebonsito" />
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "951174838757",
+    "project_id": "eliansitowebonsito-3b22235e",
+    "storage_bucket": "eliansitowebonsito-3b22235e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951174838757:android:27534859bdac7a6089d70c",
+        "android_client_info": {
+          "package_name": "com.example.eliansitowebonsito"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBxzsOAcdCwI0UXiAFohmrFxJftyHMRg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
